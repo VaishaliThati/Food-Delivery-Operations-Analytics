@@ -147,6 +147,7 @@ Food-Delivery-Operations-Analytics/
 
 **Source:** [[Food Delivery Order History Data — Kaggle](https://www.kaggle.com/datasets/)
 ](https://www.kaggle.com/datasets/sujalsuthar/food-delivery-order-history-data)
+
 **About the dataset:**
 - 21,321 rows × 29 columns
 - Covers Zomato food delivery orders in Delhi NCR
@@ -208,6 +209,7 @@ Target: Improve revenue per order while maintaining retention.
 ##  Author
 
 **Vaishali Thati**
+
 Aspiring Data Analyst | Python | SQL | Power BI | Excel | Data Storytelling
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/thati-vaishali-7830332a9)
