@@ -105,7 +105,7 @@ Food-Delivery-Operations-Analytics/
 │   ├── chart_05_heatmap_hour_day.png
 │   ├── chart_06_monthly_trend.png
 │   ├── chart_07_ready_marking_wait.png
-│   ├── chart_08_discount_order_value.png
+│   ├── chart_08_discount_spend.png
 │   ├── chart_09_cancellation_reasons.png
 │   └── chart_10_subzone_kpt.png
 │
